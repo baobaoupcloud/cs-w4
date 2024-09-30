@@ -1,5 +1,5 @@
 ---
-title : "Loops"
+title : "Heap and Stack"
 date :  "`r Sys.Date()`" 
 weight : 5 
 chapter : false

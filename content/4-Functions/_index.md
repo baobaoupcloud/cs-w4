@@ -1,5 +1,5 @@
 ---
-title : "Conditionals"
+title : "Functions"
 date :  "`r Sys.Date()`" 
 weight : 4 
 chapter : false

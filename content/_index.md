@@ -9,6 +9,7 @@ chapter : false
 ### Overall
 Welcome to week 4. We will be going deeper into the fundamental building blocks that make up files, including images. Further, we will discuss how to access the underlying data stored in computer memory.
 
+
 ### Content
  1. [Pixel Art](1-Pixel-Art/)
  2. [Memory](2-Memory/)
